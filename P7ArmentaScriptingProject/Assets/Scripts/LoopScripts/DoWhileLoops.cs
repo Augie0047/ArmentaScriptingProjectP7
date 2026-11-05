@@ -11,7 +11,7 @@ public class DoWhileLoops : MonoBehaviour
 
         do
         {
-            Debug.Log("Hello World!!!")
+            print("Hello World!!!");
         }
         while (shouldContinue == true);
     }
